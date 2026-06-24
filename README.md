@@ -2,19 +2,7 @@
 
 A clean and minimal **To-Do List** web application built with **React 19**. Users can add, complete, and delete tasks with a simple and responsive UI.
 
----
 
-## 🚀 Live Demo
-
-> _Add your deployed link here (e.g., Vercel / Netlify)_
-
----
-
-## 📸 Screenshots
-
-> _Add screenshots of your app here_
-
----
 
 ## ✨ Features
 
